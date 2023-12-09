@@ -1,0 +1,9 @@
+# .gitignore
+*.pyc
+__pycache__/
+*.log
+*.csv
+*.dat
+.env
+venv/**
+.vscode/**
